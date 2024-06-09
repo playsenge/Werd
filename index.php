@@ -19,4 +19,6 @@ require_once(__DIR__ . "/configuration/constants.php");
 require_once(__DIR__ . "/themes/" . WERD_THEME . "/server_error.php");
 die;
 
+// Test Git change
+
 // End of file
