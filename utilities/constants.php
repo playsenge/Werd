@@ -18,8 +18,7 @@ $CONST = "getConstantStripped";
 $CSS = "getCSSConstant";
 $FUNC = "callFunction";
 
-#[Attribute]
-class AllowedFunction {}
+require_once(__DIR__ . "/../models/attributes/allowed_function.php");
 
 function getConstantStripped($constantName, $arguments=[], $enum=false) {
     if (defined($constantName)) {
