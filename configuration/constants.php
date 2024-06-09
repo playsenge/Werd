@@ -18,7 +18,7 @@ require_once(__DIR__ . "/../models/enums/versioning.php");
 require_once(__DIR__ . "/../models/enums/databases.php");
 
 // When done with configuration, modify this value to true and the website will be published
-define("WERD_CONFIGURED", true);
+define("WERD_CONFIGURED", false);
 
 // Theme selection
 define("WERD_THEME", "werdly"); // Default value: "werdly"
