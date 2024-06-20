@@ -40,7 +40,7 @@ define("WERD_TITLE_FORMAT", "My Werd Blog - {page}");
 define("WERD_POST_PAGE_FORMAT", "{title} by {author}");
 
 define("WERD_ROOT_URL", "http://localhost/"); // Make sure to include / at the end
-define("WERD_KEYWORDS", "szkoła podstawowa, bydgoszcz");
+define("WERD_KEYWORDS", "werd, blog");
 define("WERD_AUTHOR", "senge1337");
 define("WERD_FAVICON", "data/werd-logo.png");
 define("WERD_AUTHOR_TWITTER", "@senge1337");
